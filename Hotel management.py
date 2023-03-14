@@ -250,3 +250,5 @@ three_label=Label(root,text="Three Sharing = Rs.700").place(x=1150,y=460)
 four_label=Label(root,text="Four sharing = Rs500").place(x=1150,y=490)
 
 root.mainloop()
+
+#second commit
